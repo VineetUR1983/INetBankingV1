@@ -21,6 +21,7 @@
 			<class name="com.inetbank.testCases.TC_LoginTest_001" />
 			<!-- <class name="com.inetbank.testCases.TC_LoginTestDDT_002" /> -->
 			<class name="com.inetbank.testCases.TC_NewCustomer_001" />
+			<class name="com.inetbank.testCases.TC004_EditCustomer" />
 			
 		</classes>
 	</test>
