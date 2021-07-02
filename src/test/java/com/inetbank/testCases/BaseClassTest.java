@@ -34,7 +34,8 @@ public class BaseClassTest {
 	public static WebDriver driver;
 	public static Logger logger;
 	
-
+	public String custId = "";
+	
 	
 	@Parameters("browser")
 	@BeforeClass

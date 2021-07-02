@@ -8,8 +8,6 @@ import com.inetbank.pageObjects.HomePage;
 
 import java.io.IOException;
 
-import org.apache.commons.lang3.RandomStringUtils;
-
 
 public class TC_NewCustomer_001 extends BaseClassTest{
 	
@@ -63,6 +61,9 @@ public class TC_NewCustomer_001 extends BaseClassTest{
 			logger.info("Created New Customer");
 			
 			logger.info("Customer ID : " + newCust.getCustID());
+			BaseClassTest b = new BaseClassTest();
+			b.custId = newCust.getCustID();
+			
 			newCust.clickContinue();
 			logger.info("Clicked on Continue to Navigate to HomePage");
 			hp.clickLogout();
