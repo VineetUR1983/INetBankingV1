@@ -8,4 +8,6 @@ Mini Project:
 - Use ExtentReport for Generation of Reports
 - Use Maven for Build / Test Execution
 - Use Jenkins for CI from GitHub Repo
-- Store Dynamic Values into SharedJava Class
+- Store Dynamic Values into SharedJava Class to be available between differnt Test Runs
+  -  Like New Customer Creation will Issue a CustomerID
+  -  This CustId can be Stored in a Shared Class and then Used with EditCustomer Test Case
