@@ -25,9 +25,18 @@ public class HomePage {
 	@CacheLookup
 	WebElement lnkNewCustomer;
 	
+	@FindBy(xpath = "//a[contains(@href,'EditCustomer.php')]")
+	@CacheLookup
+	WebElement lnkEditCustomer;
+	
 	public void clickNewCustomer()
 	{
 		lnkNewCustomer.click();
+	}
+	
+	public void clickEditCustomer()
+	{
+		lnkEditCustomer.click();
 	}
 	
 	public void clickLogout()

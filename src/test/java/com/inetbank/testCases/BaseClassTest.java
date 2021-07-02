@@ -34,7 +34,7 @@ public class BaseClassTest {
 	public static WebDriver driver;
 	public static Logger logger;
 	
-	public String custId = "";
+	
 	
 	
 	@Parameters("browser")
@@ -57,6 +57,7 @@ public class BaseClassTest {
 		}
 		
 		driver.manage().timeouts().implicitlyWait(3000, TimeUnit.MILLISECONDS);
+		driver.manage().window().maximize();
 		driver.get(baseURL);
 		logger = Logger.getLogger("ebanking");
 		PropertyConfigurator.configure("Log4j.properties");

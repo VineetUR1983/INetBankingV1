@@ -455,3 +455,110 @@
 2021-07-02 21:50:20,184 [main] INFO ebanking - Customer ID : 98671
 2021-07-02 21:50:20,605 [main] INFO ebanking - Clicked on Continue to Navigate to HomePage
 2021-07-02 21:50:21,251 [main] INFO ebanking - Returned to Login Page
+2021-07-02 23:43:30,514 [main] INFO ebanking - Accessing Base URL
+2021-07-02 23:43:30,669 [main] INFO ebanking - Entered UserName
+2021-07-02 23:43:30,765 [main] INFO ebanking - Entered Password
+2021-07-02 23:43:31,714 [main] INFO ebanking - User Clicked on Login Button
+2021-07-02 23:43:31,723 [main] INFO ebanking - Home Page Title Assertion Passed
+2021-07-02 23:43:35,586 [main] INFO ebanking - Provided Username
+2021-07-02 23:43:35,671 [main] INFO ebanking - Provided Password
+2021-07-02 23:43:40,556 [main] INFO ebanking - Click New Customer from HomePage
+2021-07-02 23:43:40,557 [main] INFO ebanking - Enter details for New Customer
+2021-07-02 23:43:42,424 [main] INFO ebanking - Created New Customer
+2021-07-02 23:43:42,455 [main] INFO ebanking - Customer ID : 54317
+2021-07-02 23:43:42,835 [main] INFO ebanking - Clicked on Continue to Navigate to HomePage
+2021-07-02 23:43:43,444 [main] INFO ebanking - Returned to Login Page
+2021-07-02 23:47:42,771 [main] INFO ebanking - Accessing Base URL
+2021-07-02 23:47:42,898 [main] INFO ebanking - Entered UserName
+2021-07-02 23:47:42,984 [main] INFO ebanking - Entered Password
+2021-07-02 23:47:44,033 [main] INFO ebanking - User Clicked on Login Button
+2021-07-02 23:47:44,042 [main] INFO ebanking - Home Page Title Assertion Passed
+2021-07-02 23:47:48,052 [main] INFO ebanking - Provided Username
+2021-07-02 23:47:48,128 [main] INFO ebanking - Provided Password
+2021-07-02 23:47:52,694 [main] INFO ebanking - Click New Customer from HomePage
+2021-07-02 23:47:52,695 [main] INFO ebanking - Enter details for New Customer
+2021-07-02 23:47:54,605 [main] INFO ebanking - Created New Customer
+2021-07-02 23:47:54,640 [main] INFO ebanking - Customer ID : 5618
+2021-07-02 23:47:55,014 [main] INFO ebanking - Clicked on Continue to Navigate to HomePage
+2021-07-02 23:47:55,629 [main] INFO ebanking - Returned to Login Page
+2021-07-02 23:47:59,390 [main] INFO ebanking - Provided Username
+2021-07-02 23:47:59,473 [main] INFO ebanking - Provided Password
+2021-07-02 23:48:04,224 [main] INFO ebanking - Clicked Edit Customer from HomePage
+2021-07-02 23:49:41,301 [main] INFO ebanking - Accessing Base URL
+2021-07-02 23:49:41,442 [main] INFO ebanking - Entered UserName
+2021-07-02 23:49:41,550 [main] INFO ebanking - Entered Password
+2021-07-02 23:49:42,480 [main] INFO ebanking - User Clicked on Login Button
+2021-07-02 23:49:42,489 [main] INFO ebanking - Home Page Title Assertion Passed
+2021-07-02 23:49:46,796 [main] INFO ebanking - Provided Username
+2021-07-02 23:49:46,895 [main] INFO ebanking - Provided Password
+2021-07-02 23:49:51,252 [main] INFO ebanking - Click New Customer from HomePage
+2021-07-02 23:49:51,253 [main] INFO ebanking - Enter details for New Customer
+2021-07-02 23:49:53,433 [main] INFO ebanking - Created New Customer
+2021-07-02 23:49:53,465 [main] INFO ebanking - Customer ID : 65092
+2021-07-02 23:49:53,865 [main] INFO ebanking - Clicked on Continue to Navigate to HomePage
+2021-07-02 23:49:54,553 [main] INFO ebanking - Returned to Login Page
+2021-07-02 23:49:58,469 [main] INFO ebanking - Provided Username
+2021-07-02 23:49:58,550 [main] INFO ebanking - Provided Password
+2021-07-02 23:50:06,368 [main] INFO ebanking - Clicked Edit Customer from HomePage
+2021-07-02 23:50:31,560 [main] INFO ebanking - Accessing Base URL
+2021-07-02 23:50:31,700 [main] INFO ebanking - Entered UserName
+2021-07-02 23:50:31,779 [main] INFO ebanking - Entered Password
+2021-07-02 23:50:32,681 [main] INFO ebanking - User Clicked on Login Button
+2021-07-02 23:50:32,691 [main] INFO ebanking - Home Page Title Assertion Passed
+2021-07-02 23:50:36,562 [main] INFO ebanking - Provided Username
+2021-07-02 23:50:36,658 [main] INFO ebanking - Provided Password
+2021-07-02 23:50:41,231 [main] INFO ebanking - Click New Customer from HomePage
+2021-07-02 23:50:41,232 [main] INFO ebanking - Enter details for New Customer
+2021-07-02 23:50:43,112 [main] INFO ebanking - Created New Customer
+2021-07-02 23:50:43,147 [main] INFO ebanking - Customer ID : 374
+2021-07-02 23:50:43,574 [main] INFO ebanking - Clicked on Continue to Navigate to HomePage
+2021-07-02 23:50:44,198 [main] INFO ebanking - Returned to Login Page
+2021-07-02 23:50:48,090 [main] INFO ebanking - Provided Username
+2021-07-02 23:50:48,174 [main] INFO ebanking - Provided Password
+2021-07-02 23:50:55,937 [main] INFO ebanking - Clicked Edit Customer from HomePage
+2021-07-02 23:53:14,735 [main] INFO ebanking - Accessing Base URL
+2021-07-02 23:53:14,860 [main] INFO ebanking - Entered UserName
+2021-07-02 23:53:14,955 [main] INFO ebanking - Entered Password
+2021-07-02 23:53:16,110 [main] INFO ebanking - User Clicked on Login Button
+2021-07-02 23:53:16,120 [main] INFO ebanking - Home Page Title Assertion Passed
+2021-07-02 23:53:19,993 [main] INFO ebanking - Provided Username
+2021-07-02 23:53:20,073 [main] INFO ebanking - Provided Password
+2021-07-02 23:53:24,646 [main] INFO ebanking - Click New Customer from HomePage
+2021-07-02 23:53:24,647 [main] INFO ebanking - Enter details for New Customer
+2021-07-02 23:53:26,521 [main] INFO ebanking - Created New Customer
+2021-07-02 23:53:26,555 [main] INFO ebanking - Customer ID : 77182
+2021-07-02 23:53:27,005 [main] INFO ebanking - Clicked on Continue to Navigate to HomePage
+2021-07-02 23:53:27,603 [main] INFO ebanking - Returned to Login Page
+2021-07-02 23:53:31,608 [main] INFO ebanking - Provided Username
+2021-07-02 23:53:31,690 [main] INFO ebanking - Provided Password
+2021-07-02 23:53:39,415 [main] INFO ebanking - Clicked Edit Customer from HomePage
+2021-07-03 00:16:17,242 [main] INFO ebanking - Accessing Base URL
+2021-07-03 00:16:17,377 [main] INFO ebanking - Entered UserName
+2021-07-03 00:16:17,458 [main] INFO ebanking - Entered Password
+2021-07-03 00:16:18,343 [main] INFO ebanking - User Clicked on Login Button
+2021-07-03 00:16:18,352 [main] INFO ebanking - Home Page Title Assertion Passed
+2021-07-03 00:16:22,417 [main] INFO ebanking - Provided Username
+2021-07-03 00:16:22,503 [main] INFO ebanking - Provided Password
+2021-07-03 00:16:27,062 [main] INFO ebanking - Click New Customer from HomePage
+2021-07-03 00:16:27,063 [main] INFO ebanking - Enter details for New Customer
+2021-07-03 00:16:28,917 [main] INFO ebanking - Created New Customer
+2021-07-03 00:16:28,957 [main] INFO ebanking - Customer ID : 73611
+2021-07-03 00:16:29,376 [main] INFO ebanking - Clicked on Continue to Navigate to HomePage
+2021-07-03 00:16:30,045 [main] INFO ebanking - Returned to Login Page
+2021-07-03 00:16:33,993 [main] INFO ebanking - Provided Username
+2021-07-03 00:16:34,076 [main] INFO ebanking - Provided Password
+2021-07-03 00:16:38,920 [main] INFO ebanking - Clicked Edit Customer from HomePage
+2021-07-03 00:24:59,647 [main] INFO ebanking - Provided Username
+2021-07-03 00:24:59,731 [main] INFO ebanking - Provided Password
+2021-07-03 00:25:04,655 [main] INFO ebanking - Clicked Edit Customer from HomePage
+2021-07-03 00:25:29,594 [main] INFO ebanking - Provided Username
+2021-07-03 00:25:29,672 [main] INFO ebanking - Provided Password
+2021-07-03 00:25:34,255 [main] INFO ebanking - Click New Customer from HomePage
+2021-07-03 00:25:34,256 [main] INFO ebanking - Enter details for New Customer
+2021-07-03 00:25:36,158 [main] INFO ebanking - Created New Customer
+2021-07-03 00:25:36,214 [main] INFO ebanking - Customer ID : 70127
+2021-07-03 00:25:36,611 [main] INFO ebanking - Clicked on Continue to Navigate to HomePage
+2021-07-03 00:25:37,398 [main] INFO ebanking - Returned to Login Page
+2021-07-03 00:25:41,351 [main] INFO ebanking - Provided Username
+2021-07-03 00:25:41,434 [main] INFO ebanking - Provided Password
+2021-07-03 00:25:46,151 [main] INFO ebanking - Clicked Edit Customer from HomePage

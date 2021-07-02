@@ -16,15 +16,15 @@ public class EditCustomerPage {
 		PageFactory.initElements(rdriver, this);
 	}
 	
-	@FindBy(name="cusid")
+	@FindBy(xpath="//input[@name='cusid']")
 	@CacheLookup
 	WebElement txtCustomerId;
 	
-	@FindBy(name="//input[@type='submit'][@name='AccSubmit']")
+	@FindBy(xpath="//input[@type='submit'][@name='AccSubmit']")
 	@CacheLookup
 	WebElement btnCustIdSumbit;
 	
-	@FindBy(name="//input[@type='reset'][@name='res']")
+	@FindBy(xpath="//input[@type='reset'][@name='res']")
 	@CacheLookup
 	WebElement btnCustIdReset;
 	

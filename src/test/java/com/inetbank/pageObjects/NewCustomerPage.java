@@ -7,6 +7,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
+import com.inetbank.testCases.SharedClass;
+
 public class NewCustomerPage {
 
 	WebDriver ldriver;
@@ -144,6 +146,8 @@ public class NewCustomerPage {
 	
 	public String getCustID()
 	{
+		
+		SharedClass.setCustId(labCustomerID.getText());
 		return labCustomerID.getText();
 	}
 	

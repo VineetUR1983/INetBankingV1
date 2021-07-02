@@ -61,8 +61,8 @@ public class TC_NewCustomer_001 extends BaseClassTest{
 			logger.info("Created New Customer");
 			
 			logger.info("Customer ID : " + newCust.getCustID());
-			BaseClassTest b = new BaseClassTest();
-			b.custId = newCust.getCustID();
+			
+			SharedClass.setCustId(newCust.getCustID());
 			
 			newCust.clickContinue();
 			logger.info("Clicked on Continue to Navigate to HomePage");
