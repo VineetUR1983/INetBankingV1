@@ -11,3 +11,9 @@ Mini Project:
 - Store Dynamic Values into SharedJava Class to be available between differnt Test Runs
   -  Like New Customer Creation will Issue a CustomerID
   -  This CustId can be Stored in a Shared Class and then Used with EditCustomer Test Case
+
+
+1. Download Repo
+2. Run using Maven Commands
+    mvn clean install
+3. Tests will run in Chrome.
