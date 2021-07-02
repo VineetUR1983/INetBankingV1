@@ -1,0 +1,457 @@
+2021-07-01 15:13:16,605 - ebanking -INFO - Accessing Base URL
+2021-07-01 15:13:16,732 - ebanking -INFO - Entered UserName
+2021-07-01 15:13:16,818 - ebanking -INFO - Entered Password
+2021-07-01 15:13:17,745 - ebanking -INFO - User Clicked on Login Button
+2021-07-01 15:13:17,754 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 10:54:32,285 - ebanking -INFO - Accessing Base URL
+2021-07-02 10:54:32,478 - ebanking -INFO - Entered UserName
+2021-07-02 10:54:32,587 - ebanking -INFO - Entered Password
+2021-07-02 10:54:33,662 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 10:54:33,671 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 10:55:22,998 - ebanking -INFO - Accessing Base URL
+2021-07-02 10:55:23,139 - ebanking -INFO - Entered UserName
+2021-07-02 10:55:23,237 - ebanking -INFO - Entered Password
+2021-07-02 10:55:24,138 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 10:55:24,149 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 11:09:43,662 - ebanking -INFO - Accessing Base URL
+2021-07-02 11:09:43,801 - ebanking -INFO - Entered UserName
+2021-07-02 11:09:43,881 - ebanking -INFO - Entered Password
+2021-07-02 11:09:44,789 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 11:09:44,799 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 11:20:32,351 - ebanking -INFO - Accessing Base URL
+2021-07-02 11:20:33,387 - ebanking -INFO - Entered UserName
+2021-07-02 11:20:34,251 - ebanking -INFO - Entered Password
+2021-07-02 11:20:36,603 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 11:20:36,622 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 11:23:20,258 - ebanking -INFO - Accessing Base URL
+2021-07-02 11:23:21,205 - ebanking -INFO - Entered UserName
+2021-07-02 11:23:22,119 - ebanking -INFO - Entered Password
+2021-07-02 11:23:24,452 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 11:23:24,470 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 11:23:28,833 - ebanking -INFO - Accessing Base URL
+2021-07-02 11:23:28,936 - ebanking -INFO - Entered UserName
+2021-07-02 11:23:29,028 - ebanking -INFO - Entered Password
+2021-07-02 11:23:30,166 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 11:23:30,173 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 12:12:08,735 - ebanking -INFO - Accessing Base URL
+2021-07-02 12:12:09,746 - ebanking -INFO - Entered UserName
+2021-07-02 12:12:10,691 - ebanking -INFO - Entered Password
+2021-07-02 12:12:12,916 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 12:12:12,935 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 12:12:17,055 - ebanking -INFO - Accessing Base URL
+2021-07-02 12:12:17,158 - ebanking -INFO - Entered UserName
+2021-07-02 12:12:17,252 - ebanking -INFO - Entered Password
+2021-07-02 12:12:18,104 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 12:12:18,111 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 12:17:29,623 - ebanking -INFO - Accessing Base URL
+2021-07-02 12:17:30,588 - ebanking -INFO - Entered UserName
+2021-07-02 12:17:31,472 - ebanking -INFO - Entered Password
+2021-07-02 12:17:33,712 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 12:17:37,936 - ebanking -INFO - Accessing Base URL
+2021-07-02 12:17:38,040 - ebanking -INFO - Entered UserName
+2021-07-02 12:17:38,124 - ebanking -INFO - Entered Password
+2021-07-02 12:17:39,160 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 12:25:37,886 - ebanking -INFO - Accessing Base URL
+2021-07-02 12:25:38,033 - ebanking -INFO - Entered UserName
+2021-07-02 12:25:38,137 - ebanking -INFO - Entered Password
+2021-07-02 12:25:39,067 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 12:33:47,259 - ebanking -INFO - Accessing Base URL
+2021-07-02 12:33:47,394 - ebanking -INFO - Entered UserName
+2021-07-02 12:33:47,499 - ebanking -INFO - Entered Password
+2021-07-02 12:33:48,414 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 14:18:22,383 - ebanking -INFO - Username has been Entered
+2021-07-02 14:18:22,424 - ebanking -INFO - Password has been Entered
+2021-07-02 14:18:22,812 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:18:23,878 - ebanking -INFO - Username has been Entered
+2021-07-02 14:18:23,906 - ebanking -INFO - Password has been Entered
+2021-07-02 14:18:24,266 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:18:25,272 - ebanking -INFO - Username has been Entered
+2021-07-02 14:18:25,317 - ebanking -INFO - Password has been Entered
+2021-07-02 14:18:25,702 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:18:26,800 - ebanking -INFO - Username has been Entered
+2021-07-02 14:18:26,843 - ebanking -INFO - Password has been Entered
+2021-07-02 14:18:27,221 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:18:28,490 - ebanking -INFO - Username has been Entered
+2021-07-02 14:18:28,523 - ebanking -INFO - Password has been Entered
+2021-07-02 14:18:28,899 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:19:51,717 - ebanking -INFO - Username has been Entered
+2021-07-02 14:19:51,796 - ebanking -INFO - Password has been Entered
+2021-07-02 14:19:52,182 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:19:53,239 - ebanking -INFO - Username has been Entered
+2021-07-02 14:19:53,327 - ebanking -INFO - Password has been Entered
+2021-07-02 14:19:53,696 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:19:54,899 - ebanking -INFO - Username has been Entered
+2021-07-02 14:19:54,977 - ebanking -INFO - Password has been Entered
+2021-07-02 14:19:55,340 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:19:56,450 - ebanking -INFO - Username has been Entered
+2021-07-02 14:19:56,556 - ebanking -INFO - Password has been Entered
+2021-07-02 14:19:56,935 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:19:58,161 - ebanking -INFO - Username has been Entered
+2021-07-02 14:19:58,252 - ebanking -INFO - Password has been Entered
+2021-07-02 14:19:58,631 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:22:06,292 - ebanking -INFO - Username has been Entered
+2021-07-02 14:22:06,376 - ebanking -INFO - Password has been Entered
+2021-07-02 14:22:12,825 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:22:14,185 - ebanking -INFO - Username has been Entered
+2021-07-02 14:22:14,270 - ebanking -INFO - Password has been Entered
+2021-07-02 14:22:20,680 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:22:22,257 - ebanking -INFO - Username has been Entered
+2021-07-02 14:22:22,348 - ebanking -INFO - Password has been Entered
+2021-07-02 14:22:28,755 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:22:30,035 - ebanking -INFO - Username has been Entered
+2021-07-02 14:22:30,118 - ebanking -INFO - Password has been Entered
+2021-07-02 14:22:36,505 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:22:37,779 - ebanking -INFO - Username has been Entered
+2021-07-02 14:22:37,885 - ebanking -INFO - Password has been Entered
+2021-07-02 14:22:44,289 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:26:50,028 - ebanking -INFO - Username has been Entered
+2021-07-02 14:26:50,137 - ebanking -INFO - Password has been Entered
+2021-07-02 14:26:56,582 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:26:57,879 - ebanking -INFO - Username has been Entered
+2021-07-02 14:26:57,970 - ebanking -INFO - Password has been Entered
+2021-07-02 14:27:04,368 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:27:05,646 - ebanking -INFO - Username has been Entered
+2021-07-02 14:27:05,738 - ebanking -INFO - Password has been Entered
+2021-07-02 14:27:12,156 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:27:13,427 - ebanking -INFO - Username has been Entered
+2021-07-02 14:27:13,508 - ebanking -INFO - Password has been Entered
+2021-07-02 14:27:19,888 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:27:21,150 - ebanking -INFO - Username has been Entered
+2021-07-02 14:27:21,240 - ebanking -INFO - Password has been Entered
+2021-07-02 14:27:27,647 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:29:42,523 - ebanking -INFO - Username has been Entered
+2021-07-02 14:29:42,601 - ebanking -INFO - Password has been Entered
+2021-07-02 14:29:49,002 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:29:50,316 - ebanking -INFO - Username has been Entered
+2021-07-02 14:29:50,397 - ebanking -INFO - Password has been Entered
+2021-07-02 14:29:56,799 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:29:58,094 - ebanking -INFO - Username has been Entered
+2021-07-02 14:29:58,175 - ebanking -INFO - Password has been Entered
+2021-07-02 14:30:04,603 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:30:05,910 - ebanking -INFO - Username has been Entered
+2021-07-02 14:30:05,998 - ebanking -INFO - Password has been Entered
+2021-07-02 14:30:12,417 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:30:13,694 - ebanking -INFO - Username has been Entered
+2021-07-02 14:30:13,789 - ebanking -INFO - Password has been Entered
+2021-07-02 14:30:20,199 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:31:36,002 - ebanking -INFO - Username has been Entered
+2021-07-02 14:31:36,086 - ebanking -INFO - Password has been Entered
+2021-07-02 14:31:42,535 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:31:43,826 - ebanking -INFO - Username has been Entered
+2021-07-02 14:31:43,920 - ebanking -INFO - Password has been Entered
+2021-07-02 14:33:02,305 - ebanking -INFO - Username has been Entered
+2021-07-02 14:33:02,381 - ebanking -INFO - Password has been Entered
+2021-07-02 14:33:08,790 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:33:10,127 - ebanking -INFO - Username has been Entered
+2021-07-02 14:33:10,221 - ebanking -INFO - Password has been Entered
+2021-07-02 14:33:16,636 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:33:17,944 - ebanking -INFO - Username has been Entered
+2021-07-02 14:33:18,033 - ebanking -INFO - Password has been Entered
+2021-07-02 14:33:24,475 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:33:25,800 - ebanking -INFO - Username has been Entered
+2021-07-02 14:33:25,880 - ebanking -INFO - Password has been Entered
+2021-07-02 14:33:32,285 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:33:33,543 - ebanking -INFO - Username has been Entered
+2021-07-02 14:33:33,621 - ebanking -INFO - Password has been Entered
+2021-07-02 14:33:39,996 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:34:13,586 - ebanking -INFO - Username has been Entered
+2021-07-02 14:34:13,671 - ebanking -INFO - Password has been Entered
+2021-07-02 14:34:20,787 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 14:34:21,494 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 14:34:22,624 - ebanking -INFO - Username has been Entered
+2021-07-02 14:34:22,713 - ebanking -INFO - Password has been Entered
+2021-07-02 14:34:29,629 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > UrUvYmE
+2021-07-02 14:34:30,462 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 14:34:31,560 - ebanking -INFO - Username has been Entered
+2021-07-02 14:34:31,666 - ebanking -INFO - Password has been Entered
+2021-07-02 14:34:38,056 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:34:39,343 - ebanking -INFO - Username has been Entered
+2021-07-02 14:34:39,420 - ebanking -INFO - Password has been Entered
+2021-07-02 14:34:46,435 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 14:34:47,050 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 14:34:48,146 - ebanking -INFO - Username has been Entered
+2021-07-02 14:34:48,234 - ebanking -INFO - Password has been Entered
+2021-07-02 14:34:54,634 - ebanking -INFO - Alert Message has been Accepted and Closed
+2021-07-02 14:39:50,246 - ebanking -INFO - Username has been Entered
+2021-07-02 14:39:50,331 - ebanking -INFO - Password has been Entered
+2021-07-02 14:39:57,445 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 14:39:58,161 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 14:39:59,268 - ebanking -INFO - Username has been Entered
+2021-07-02 14:39:59,353 - ebanking -INFO - Password has been Entered
+2021-07-02 14:40:06,276 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > UrUvYmE
+2021-07-02 14:40:06,877 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 14:40:07,982 - ebanking -INFO - Username has been Entered
+2021-07-02 14:40:08,069 - ebanking -INFO - Password has been Entered
+2021-07-02 14:40:15,702 - ebanking -INFO - Username has been Entered
+2021-07-02 14:40:15,789 - ebanking -INFO - Password has been Entered
+2021-07-02 14:40:22,740 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 14:40:23,611 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 14:40:24,724 - ebanking -INFO - Username has been Entered
+2021-07-02 14:40:24,831 - ebanking -INFO - Password has been Entered
+2021-07-02 16:00:22,635 - ebanking -INFO - Provided Username
+2021-07-02 16:00:22,719 - ebanking -INFO - Provided Password
+2021-07-02 16:00:27,320 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 16:00:30,333 - ebanking -INFO - Enter details for New Customer
+2021-07-02 16:01:06,176 - ebanking -INFO - Provided Username
+2021-07-02 16:01:06,263 - ebanking -INFO - Provided Password
+2021-07-02 16:01:10,886 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 16:01:13,899 - ebanking -INFO - Enter details for New Customer
+2021-07-02 16:01:44,809 - ebanking -INFO - Provided Username
+2021-07-02 16:01:44,894 - ebanking -INFO - Provided Password
+2021-07-02 16:01:49,466 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 16:01:52,473 - ebanking -INFO - Enter details for New Customer
+2021-07-02 16:04:18,809 - ebanking -INFO - Provided Username
+2021-07-02 16:04:18,891 - ebanking -INFO - Provided Password
+2021-07-02 16:04:23,421 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 16:04:26,424 - ebanking -INFO - Enter details for New Customer
+2021-07-02 16:04:57,785 - ebanking -ERROR - Failed to Created New Customer details
+2021-07-02 16:05:56,050 - ebanking -INFO - Provided Username
+2021-07-02 16:05:56,139 - ebanking -INFO - Provided Password
+2021-07-02 16:06:00,666 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 16:06:03,682 - ebanking -INFO - Enter details for New Customer
+2021-07-02 16:06:35,290 - ebanking -ERROR - Failed to Created New Customer details
+2021-07-02 16:06:56,080 - ebanking -INFO - Provided Username
+2021-07-02 16:06:56,188 - ebanking -INFO - Provided Password
+2021-07-02 16:07:00,820 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 16:07:03,828 - ebanking -INFO - Enter details for New Customer
+2021-07-02 16:07:35,403 - ebanking -ERROR - Failed to Created New Customer details
+2021-07-02 16:10:38,599 - ebanking -INFO - Provided Username
+2021-07-02 16:10:38,683 - ebanking -INFO - Provided Password
+2021-07-02 16:10:43,245 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 16:10:46,261 - ebanking -INFO - Enter details for New Customer
+2021-07-02 16:11:18,248 - ebanking -INFO - Created New Customer
+2021-07-02 16:31:39,153 - ebanking -INFO - Provided Username
+2021-07-02 16:31:39,251 - ebanking -INFO - Provided Password
+2021-07-02 16:31:43,802 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 16:31:46,813 - ebanking -INFO - Enter details for New Customer
+2021-07-02 16:32:18,854 - ebanking -INFO - Created New Customer
+2021-07-02 16:32:21,948 - ebanking -INFO - Customer ID : 13004
+2021-07-02 16:32:22,340 - ebanking -INFO - Clicked on Continue to Navigate to HomePage
+2021-07-02 16:32:22,919 - ebanking -INFO - Returned to Login Page
+2021-07-02 16:33:08,540 - ebanking -INFO - Provided Username
+2021-07-02 16:33:08,637 - ebanking -INFO - Provided Password
+2021-07-02 16:33:13,166 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 16:33:16,170 - ebanking -INFO - Enter details for New Customer
+2021-07-02 16:33:23,142 - ebanking -INFO - Created New Customer
+2021-07-02 16:33:26,190 - ebanking -INFO - Customer ID : 69872
+2021-07-02 16:33:26,597 - ebanking -INFO - Clicked on Continue to Navigate to HomePage
+2021-07-02 16:33:27,433 - ebanking -INFO - Returned to Login Page
+2021-07-02 17:18:45,296 - ebanking -INFO - Provided Username
+2021-07-02 17:18:45,396 - ebanking -INFO - Provided Password
+2021-07-02 17:18:49,961 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 17:18:52,963 - ebanking -INFO - Enter details for New Customer
+2021-07-02 17:18:59,948 - ebanking -INFO - Created New Customer
+2021-07-02 17:19:02,996 - ebanking -INFO - Customer ID : 75179
+2021-07-02 17:19:03,405 - ebanking -INFO - Clicked on Continue to Navigate to HomePage
+2021-07-02 17:19:04,268 - ebanking -INFO - Returned to Login Page
+2021-07-02 17:23:02,759 - ebanking -INFO - Accessing Base URL
+2021-07-02 17:23:02,898 - ebanking -INFO - Entered UserName
+2021-07-02 17:23:02,997 - ebanking -INFO - Entered Password
+2021-07-02 17:23:03,961 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 17:23:10,259 - ebanking -INFO - Username has been Entered
+2021-07-02 17:23:10,362 - ebanking -INFO - Password has been Entered
+2021-07-02 17:23:17,824 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 17:23:18,717 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 17:23:19,853 - ebanking -INFO - Username has been Entered
+2021-07-02 17:23:19,940 - ebanking -INFO - Password has been Entered
+2021-07-02 17:23:26,856 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > UrUvYmE
+2021-07-02 17:23:27,483 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 17:23:28,590 - ebanking -INFO - Username has been Entered
+2021-07-02 17:23:28,688 - ebanking -INFO - Password has been Entered
+2021-07-02 17:23:36,843 - ebanking -INFO - Username has been Entered
+2021-07-02 17:23:36,938 - ebanking -INFO - Password has been Entered
+2021-07-02 17:23:43,669 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 17:23:44,558 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 17:23:45,652 - ebanking -INFO - Username has been Entered
+2021-07-02 17:23:45,761 - ebanking -INFO - Password has been Entered
+2021-07-02 17:23:56,092 - ebanking -INFO - Provided Username
+2021-07-02 17:23:56,173 - ebanking -INFO - Provided Password
+2021-07-02 17:24:00,807 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 17:24:03,816 - ebanking -INFO - Enter details for New Customer
+2021-07-02 17:27:59,026 - ebanking -INFO - Accessing Base URL
+2021-07-02 17:27:59,158 - ebanking -INFO - Entered UserName
+2021-07-02 17:27:59,241 - ebanking -INFO - Entered Password
+2021-07-02 17:28:00,193 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 17:28:00,203 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 17:28:04,647 - ebanking -INFO - Provided Username
+2021-07-02 17:28:04,731 - ebanking -INFO - Provided Password
+2021-07-02 17:28:10,679 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 17:28:10,681 - ebanking -INFO - Enter details for New Customer
+2021-07-02 17:28:12,656 - ebanking -INFO - Created New Customer
+2021-07-02 17:28:12,692 - ebanking -INFO - Customer ID : 14090
+2021-07-02 17:28:13,084 - ebanking -INFO - Clicked on Continue to Navigate to HomePage
+2021-07-02 17:28:13,806 - ebanking -INFO - Returned to Login Page
+2021-07-02 17:28:19,327 - ebanking -INFO - Username has been Entered
+2021-07-02 17:28:19,411 - ebanking -INFO - Password has been Entered
+2021-07-02 17:28:26,530 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 17:28:27,375 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 17:28:28,453 - ebanking -INFO - Username has been Entered
+2021-07-02 17:28:28,543 - ebanking -INFO - Password has been Entered
+2021-07-02 17:28:35,441 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > UrUvYmE
+2021-07-02 17:28:36,051 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 17:28:37,182 - ebanking -INFO - Username has been Entered
+2021-07-02 17:28:37,266 - ebanking -INFO - Password has been Entered
+2021-07-02 17:28:45,013 - ebanking -INFO - Username has been Entered
+2021-07-02 17:28:45,114 - ebanking -INFO - Password has been Entered
+2021-07-02 17:28:52,158 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 17:28:52,971 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 17:28:54,088 - ebanking -INFO - Username has been Entered
+2021-07-02 17:28:54,189 - ebanking -INFO - Password has been Entered
+2021-07-02 17:45:44,282 - ebanking -INFO - Accessing Base URL
+2021-07-02 17:45:44,426 - ebanking -INFO - Entered UserName
+2021-07-02 17:45:44,523 - ebanking -INFO - Entered Password
+2021-07-02 17:45:45,432 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 17:45:45,444 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 17:45:50,763 - ebanking -INFO - Username has been Entered
+2021-07-02 17:45:50,860 - ebanking -INFO - Password has been Entered
+2021-07-02 17:45:58,221 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 17:45:59,304 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 17:46:00,823 - ebanking -INFO - Username has been Entered
+2021-07-02 17:46:00,899 - ebanking -INFO - Password has been Entered
+2021-07-02 17:46:07,793 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > UrUvYmE
+2021-07-02 17:46:08,711 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 17:46:09,773 - ebanking -INFO - Username has been Entered
+2021-07-02 17:46:09,880 - ebanking -INFO - Password has been Entered
+2021-07-02 17:46:17,996 - ebanking -INFO - Username has been Entered
+2021-07-02 17:46:18,099 - ebanking -INFO - Password has been Entered
+2021-07-02 17:46:25,079 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 17:46:25,996 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 17:46:27,093 - ebanking -INFO - Username has been Entered
+2021-07-02 17:46:27,177 - ebanking -INFO - Password has been Entered
+2021-07-02 17:46:37,722 - ebanking -INFO - Provided Username
+2021-07-02 17:46:37,820 - ebanking -INFO - Provided Password
+2021-07-02 17:46:42,386 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 17:46:42,387 - ebanking -INFO - Enter details for New Customer
+2021-07-02 17:46:44,304 - ebanking -INFO - Created New Customer
+2021-07-02 17:46:44,337 - ebanking -INFO - Customer ID : 49991
+2021-07-02 17:46:44,698 - ebanking -INFO - Clicked on Continue to Navigate to HomePage
+2021-07-02 17:46:45,402 - ebanking -INFO - Returned to Login Page
+2021-07-02 18:10:59,642 - ebanking -INFO - Accessing Base URL
+2021-07-02 18:10:59,794 - ebanking -INFO - Entered UserName
+2021-07-02 18:10:59,888 - ebanking -INFO - Entered Password
+2021-07-02 18:11:00,821 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 18:11:00,832 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 18:11:06,304 - ebanking -INFO - Username has been Entered
+2021-07-02 18:11:06,413 - ebanking -INFO - Password has been Entered
+2021-07-02 18:11:13,552 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 18:11:14,293 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 18:11:15,429 - ebanking -INFO - Username has been Entered
+2021-07-02 18:11:15,520 - ebanking -INFO - Password has been Entered
+2021-07-02 18:11:22,436 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > UrUvYmE
+2021-07-02 18:11:23,079 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 18:11:24,151 - ebanking -INFO - Username has been Entered
+2021-07-02 18:11:24,239 - ebanking -INFO - Password has been Entered
+2021-07-02 18:11:31,950 - ebanking -INFO - Username has been Entered
+2021-07-02 18:11:32,035 - ebanking -INFO - Password has been Entered
+2021-07-02 18:11:39,009 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 18:11:39,635 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 18:11:40,744 - ebanking -INFO - Username has been Entered
+2021-07-02 18:11:40,827 - ebanking -INFO - Password has been Entered
+2021-07-02 18:11:51,599 - ebanking -INFO - Provided Username
+2021-07-02 18:11:51,682 - ebanking -INFO - Provided Password
+2021-07-02 18:11:56,362 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 18:11:56,363 - ebanking -INFO - Enter details for New Customer
+2021-07-02 18:11:58,285 - ebanking -INFO - Created New Customer
+2021-07-02 18:11:58,316 - ebanking -INFO - Customer ID : 19959
+2021-07-02 18:11:58,690 - ebanking -INFO - Clicked on Continue to Navigate to HomePage
+2021-07-02 18:11:59,324 - ebanking -INFO - Returned to Login Page
+2021-07-02 18:16:51,717 - ebanking -INFO - Accessing Base URL
+2021-07-02 18:16:51,848 - ebanking -INFO - Entered UserName
+2021-07-02 18:16:51,955 - ebanking -INFO - Entered Password
+2021-07-02 18:16:52,842 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 18:16:52,852 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 18:16:58,329 - ebanking -INFO - Username has been Entered
+2021-07-02 18:16:58,424 - ebanking -INFO - Password has been Entered
+2021-07-02 18:17:05,574 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 18:17:06,480 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 18:17:07,576 - ebanking -INFO - Username has been Entered
+2021-07-02 18:17:07,665 - ebanking -INFO - Password has been Entered
+2021-07-02 18:17:14,590 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > UrUvYmE
+2021-07-02 18:17:15,222 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 18:17:16,339 - ebanking -INFO - Username has been Entered
+2021-07-02 18:17:16,443 - ebanking -INFO - Password has been Entered
+2021-07-02 18:17:24,222 - ebanking -INFO - Username has been Entered
+2021-07-02 18:17:24,308 - ebanking -INFO - Password has been Entered
+2021-07-02 18:17:31,351 - ebanking -WARN - Login Passed : For User - > mngr334011 and Password - > urUvYmE
+2021-07-02 18:17:32,010 - ebanking -WARN - User Clicked on Logout Link
+2021-07-02 18:17:33,121 - ebanking -INFO - Username has been Entered
+2021-07-02 18:17:33,210 - ebanking -INFO - Password has been Entered
+2021-07-02 18:17:45,456 - ebanking -INFO - Provided Username
+2021-07-02 18:17:45,555 - ebanking -INFO - Provided Password
+2021-07-02 18:17:50,495 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 18:17:50,496 - ebanking -INFO - Enter details for New Customer
+2021-07-02 18:17:52,535 - ebanking -INFO - Created New Customer
+2021-07-02 18:17:52,568 - ebanking -INFO - Customer ID : 45938
+2021-07-02 18:17:52,971 - ebanking -INFO - Clicked on Continue to Navigate to HomePage
+2021-07-02 18:17:53,845 - ebanking -INFO - Returned to Login Page
+2021-07-02 18:34:40,802 - ebanking -INFO - Accessing Base URL
+2021-07-02 18:34:40,944 - ebanking -INFO - Entered UserName
+2021-07-02 18:34:41,025 - ebanking -INFO - Entered Password
+2021-07-02 18:34:41,940 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 18:34:41,950 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 18:34:46,168 - ebanking -INFO - Provided Username
+2021-07-02 18:34:46,279 - ebanking -INFO - Provided Password
+2021-07-02 18:34:50,870 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 18:34:50,871 - ebanking -INFO - Enter details for New Customer
+2021-07-02 18:34:52,841 - ebanking -INFO - Created New Customer
+2021-07-02 18:34:52,872 - ebanking -INFO - Customer ID : 31336
+2021-07-02 18:34:53,242 - ebanking -INFO - Clicked on Continue to Navigate to HomePage
+2021-07-02 18:34:53,917 - ebanking -INFO - Returned to Login Page
+2021-07-02 18:40:42,910 - ebanking -INFO - Accessing Base URL
+2021-07-02 18:40:43,037 - ebanking -INFO - Entered UserName
+2021-07-02 18:40:43,112 - ebanking -INFO - Entered Password
+2021-07-02 18:40:44,467 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 18:40:44,477 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 18:40:48,334 - ebanking -INFO - Provided Username
+2021-07-02 18:40:48,417 - ebanking -INFO - Provided Password
+2021-07-02 18:40:53,264 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 18:40:53,265 - ebanking -INFO - Enter details for New Customer
+2021-07-02 18:42:21,274 - ebanking -INFO - Accessing Base URL
+2021-07-02 18:42:21,404 - ebanking -INFO - Entered UserName
+2021-07-02 18:42:21,475 - ebanking -INFO - Entered Password
+2021-07-02 18:42:22,421 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 18:42:22,429 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 21:40:54,825 - ebanking -INFO - Accessing Base URL
+2021-07-02 21:40:54,955 - ebanking -INFO - Entered UserName
+2021-07-02 21:40:55,046 - ebanking -INFO - Entered Password
+2021-07-02 21:40:55,929 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 21:40:55,938 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 21:40:59,881 - ebanking -INFO - Provided Username
+2021-07-02 21:40:59,954 - ebanking -INFO - Provided Password
+2021-07-02 21:41:04,510 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 21:41:04,511 - ebanking -INFO - Enter details for New Customer
+2021-07-02 21:45:27,188 - ebanking -INFO - Accessing Base URL
+2021-07-02 21:45:27,312 - ebanking -INFO - Entered UserName
+2021-07-02 21:45:27,382 - ebanking -INFO - Entered Password
+2021-07-02 21:45:28,441 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 21:45:28,449 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 21:45:32,311 - ebanking -INFO - Provided Username
+2021-07-02 21:45:32,387 - ebanking -INFO - Provided Password
+2021-07-02 21:45:36,950 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 21:45:36,950 - ebanking -INFO - Enter details for New Customer
+2021-07-02 21:45:38,842 - ebanking -INFO - Created New Customer
+2021-07-02 21:45:38,874 - ebanking -INFO - Customer ID : 50448
+2021-07-02 21:45:39,235 - ebanking -INFO - Clicked on Continue to Navigate to HomePage
+2021-07-02 21:45:39,825 - ebanking -INFO - Returned to Login Page
+2021-07-02 21:49:19,850 - ebanking -INFO - Accessing Base URL
+2021-07-02 21:49:20,003 - ebanking -INFO - Entered UserName
+2021-07-02 21:49:20,155 - ebanking -INFO - Entered Password
+2021-07-02 21:49:21,039 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 21:49:21,048 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 21:49:25,893 - ebanking -INFO - Provided Username
+2021-07-02 21:49:26,008 - ebanking -INFO - Provided Password
+2021-07-02 21:49:30,570 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 21:49:30,571 - ebanking -INFO - Enter details for New Customer
+2021-07-02 21:50:07,454 - ebanking -INFO - Accessing Base URL
+2021-07-02 21:50:07,592 - ebanking -INFO - Entered UserName
+2021-07-02 21:50:07,678 - ebanking -INFO - Entered Password
+2021-07-02 21:50:08,620 - ebanking -INFO - User Clicked on Login Button
+2021-07-02 21:50:08,629 - ebanking -INFO - Home Page Title Assertion Passed
+2021-07-02 21:50:13,524 - ebanking -INFO - Provided Username
+2021-07-02 21:50:13,613 - ebanking -INFO - Provided Password
+2021-07-02 21:50:18,232 - ebanking -INFO - Click New Customer from HomePage
+2021-07-02 21:50:18,234 - ebanking -INFO - Enter details for New Customer
+2021-07-02 21:50:20,150 - ebanking -INFO - Created New Customer
+2021-07-02 21:50:20,184 - ebanking -INFO - Customer ID : 98671
+2021-07-02 21:50:20,605 - ebanking -INFO - Clicked on Continue to Navigate to HomePage
+2021-07-02 21:50:21,251 - ebanking -INFO - Returned to Login Page
