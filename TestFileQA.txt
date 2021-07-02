@@ -8,3 +8,4 @@ QA User 2 has checked in this file into GitHub Repository
 QA User 2 has checked in this file into GitHub Repository
 QA User 2 has checked in this file into GitHub Repository
 QA User 2 has checked in this file into GitHub Repository
+QA User 3
