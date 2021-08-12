@@ -14,7 +14,3 @@ assignees: ''
 
 
 # Future State
-
-
-# Additional Changes
-** Any Information that might be helpful **
